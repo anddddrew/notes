@@ -10,8 +10,7 @@ tags:
   - development
   - Workflow
   - yabai
-description:
-  "This is a post on what tools, apps etc I use on a daily basis for work."
+description: "This is a post on what tools, apps etc I use on a daily basis for work."
 ---
 
 ## WIP!
