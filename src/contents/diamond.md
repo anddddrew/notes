@@ -58,4 +58,4 @@ Here are some great resources if you would like to know more about Bitcoin or bl
 
 ![image.png](https://res.craft.do/user/full/771e4d25-45f1-1b93-79cf-e5f2ff1b9cf8/doc/8D85F7C8-9BDF-4878-B70F-C80AC6F00D6B/09c9d257-fa0b-436a-8108-4e2c24ef9b52)
 
-*Note: this is not a full fledged blockchain so it is technically not decentralized, im planning to work on this more sometime in the future to include more features (wallet creation, a command line interface and some other stuff).  
+*Note: this is not a full fledged blockchain so it is technically not decentralized, im planning to work on this more sometime in the future to include more features (wallet creation, a command line interface and some other stuff).* 
