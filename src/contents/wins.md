@@ -15,7 +15,7 @@ description: "My wins in 2022"
 - Learnt a ton and tinkered with different technology (Go, Rust, Swift etc!)
 - Switched to home-schooling instead of in person schooling (flexibility, also learning a lot more)
 - Turned 14
-- Went to my first tech conference :)
+- Went to my first tech conference :) (I may or may not have skipped school to attend 😳)
 - Worked at a startup
 - Shipped some dope projects and hacked on fun stuff with https://pineapplerind.xyz
 - Started going to the gym
